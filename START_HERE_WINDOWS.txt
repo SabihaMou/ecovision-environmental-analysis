@@ -1,0 +1,11 @@
+ECOVISION — WINDOWS QUICK START
+
+1. Open this folder in File Explorer.
+2. Click the address bar, type cmd, press Enter.
+3. Run: python -m pip install -r requirements.txt
+4. Run: python -m streamlit run app.py
+5. Open http://localhost:8501 if needed.
+
+To run tests: python -m pytest -q
+
+If py gives a Python314 error, use python instead, as shown above.
